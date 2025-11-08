@@ -1,6 +1,8 @@
 ## VerseData
 Welcome to VerseDate! This mini [**Github Pages**](https://docs.github.com/en/pages) site is updated manually every day for a new and exciting Bible verse. 
 
+#### NOTE: This repo is on hold because of a problem occuring with Github pages.
+
 ## Bible verse of the Day: 
 > ✝️ **“Wherefore should the heathen say, Where is now their God?	 	
    But our God is in the heavens: he hath done whatsoever he hath pleased.	 	
